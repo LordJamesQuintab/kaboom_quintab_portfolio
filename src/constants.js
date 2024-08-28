@@ -4,8 +4,8 @@ export const dialogueData = {
   pc: `This is my PC. Here i can do code and have a stressful night.
     Here is my <a href="https://github.com/LordJamesQuintab" target="_blank">Github</a>!`,
   "cs-degree": `This is my BSIT degree 
-This is Me <a href="jam.jpg" target="_blank">
-        <img src="jam.jpg" alt="My Degree" class="clickable-image">
+This is Me <a href="jam.png" target="_blank">
+        <img src="jam.png" alt="My Degree" class="clickable-image">
         <style>
         a {
         text-decoration: none;
