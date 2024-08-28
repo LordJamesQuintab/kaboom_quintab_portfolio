@@ -1,10 +1,14 @@
-
 export const scaleFactor = 4;
 
 export const dialogueData = {
   pc: `This is my PC. Here i can do code and have a stressful night.
     Here is my <a href="https://github.com/LordJamesQuintab" target="_blank">Github</a>!`,
-  "cs-degree": `<style>
+  "cs-degree": `
+
+This is my BSIT degree 
+This is Me <a href="jam.png" target="_blank">
+  <img src="jam.png" alt="My Degree" class="clickable-image">
+</a><style>
   a {
     text-decoration: none;
   }
@@ -12,12 +16,7 @@ export const dialogueData = {
     width: 50px; 
     height: 50px; 
   }
-</style>
-
-This is my BSIT degree 
-This is Me <a href="jam.png" target="_blank">
-  <img src="jam.png" alt="My Degree" class="clickable-image">
-</a>. I hung it on the wall because I'm proud of it.
+</style>. I hung it on the wall because I'm proud of it.
 `,
   "sofa-table": `That's my sofa. I like to relax here and and make guitar covers. 
   I also make guitar covers. Go follow to <a href="https://www.tiktok.com/@jeymiks11?lang=en" target="_blank">my tiktok account</a>! (If you like the content)!`,
