@@ -5,8 +5,8 @@
     },
     "activeFile": "public/map.json",
     "expandedProjectPaths": [
-        "public",
-        "."
+        ".",
+        "public"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -14,15 +14,15 @@
             "scaleInEditor": 2
         },
         "public/map.json": {
-            "scale": 8,
+            "scale": 4,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 59.5625,
-                "y": 113.25
+                "x": 134.125,
+                "y": 116.375
             }
         },
         "public/map.json#spritesheet": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "public/maps.json": {
             "scaleInDock": 4,
@@ -40,13 +40,12 @@
     "map.tileWidth": 16,
     "map.width": 27,
     "openFiles": [
-        "public/map.json",
-        "public/maps.json"
+        "public/map.json"
     ],
     "project": "kaboom.tiled-project",
     "recentFiles": [
-        "public/maps.json",
         "public/map.json",
+        "public/maps.json",
         "spritesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
