@@ -4,7 +4,7 @@ export const dialogueData = {
   pc: `This is my PC. Here i can do code and have a stressful night.
     Here is my <a href="https://github.com/LordJamesQuintab" target="_blank">Github</a>!`,
   "cs-degree": `This is my BSIT degree 
-<a href="jam.png" target="_blank">This is Me.</a>
+<a href="jam.jpg" target="_blank">This is Me.</a>
 . I hung it on the wall because I'm proud of it. `,
   "sofa-table": `That's my sofa. I like to relax here and and make guitar covers. 
   I also make guitar covers. Go follow to <a href="https://www.tiktok.com/@jeymiks11?lang=en" target="_blank">my tiktok account</a>! (If you like the content)!`,
