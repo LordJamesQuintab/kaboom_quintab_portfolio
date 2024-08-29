@@ -5,8 +5,8 @@ export const dialogueData = {
     Here is my <a href="https://github.com/LordJamesQuintab" target="_blank">Github</a>!`,
    "cs-degree": `
   This is my BSIT degree.
-  <a href="jam.png" target="_blank">
-    <img src="jam.png" alt="My Degree" style="width: 50px; height: auto; border: 1px solid #ccc; "/>
+  <a href="../src/jam.png" target="_blank">
+    <img src="../src/jam.png" alt="My Degree" style="width: 50px; height: auto; border: 1px solid #ccc; "/>
   </a>
   I hung it on the wall because I'm proud of it.`,
   "sofa-table": `That's my sofa. I like to relax here and make guitar covers. 
