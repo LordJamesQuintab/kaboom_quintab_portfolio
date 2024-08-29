@@ -1,14 +1,9 @@
 export function displayDialogue(text, onDisplayEnd) {
     const dialogueUI = document.getElementById("textbox-container");
     const dialogue = document.getElementById("dialogue");
-    
-    document.addEventListener('DOMContentLoaded', () => {
-      const dialogueKey = 'cs-degree'; // Example key to display
-      const dialogueContent = dialogueData[dialogueKey];
-      
-      const container = document.getElementById('dialogue-container');
-      container.innerHTML = dialogueContent;
-    });
+    const dialogueData = document.getElementById("dialogue-container");
+
+
     
   
     dialogueUI.style.display = "block";
@@ -34,6 +29,13 @@ export function displayDialogue(text, onDisplayEnd) {
       clearInterval(intervalRef);
       closeBtn.removeEventListener("click", onCloseBtnClick);
     }
+    document.addEventListener('DOMContentLoaded', () => {
+      const dialogueKey = 'cs-degree'; // Example key to display
+      const dialogueContent = dialogueData[dialogueKey];
+      
+      const container = document.getElementById("dialogue-container");
+      container.innerHTML = dialogueContent;
+    });
   
     closeBtn.addEventListener("click", onCloseBtnClick);
   
